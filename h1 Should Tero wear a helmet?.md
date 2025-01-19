@@ -68,3 +68,9 @@ Pros of threat modeling is that it helps recognize potential system failures, de
 - Ongoing updates.
 - Company staff lectures about phishing and scams.
 
+## References
+- Karvinen 2025 - Information security at https://terokarvinen.com/information-security/#h1-should-tero-wear-a-helmet
+- Braiterman et al 2020: Threat modeling manifesto at https://www.threatmodelingmanifesto.org
+- OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet at https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html
+- EP 115: PLAYER CHEATER DEVELOPER SPY at https://darknetdiaries.com/episode/115/
+- GPT prompts for brainstorming, ideation and reference:
