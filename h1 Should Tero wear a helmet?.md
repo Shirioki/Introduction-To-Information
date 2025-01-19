@@ -31,6 +31,40 @@ Pros of threat modeling is that it helps recognize potential system failures, de
 - Secure your devices with password or biometric authentication.
 - Be aware of phishing and scams and avoid clicking suspicious links.
 
-## b) Make-belief boogie-man
+## b) Imaginary Company: PlayGachaGames
 
+### (1) What are we working on?
+
+- Assets: Game code, Player accounts, user data
+- Priotization: Player account security, in-game currency and game code
+- Business Model: PlayGacha Games is a gacha online multiplayer mobilegames with a marketplace for in-game purchases.
+- System Diagram: Game client -> Game server -> Payment gateway -> Player database.
+- Customer Touchpoints: Game platform, in-game store, support portal.
+
+### (2) What can go wrong?
+- STRIDE
+  - Fake accounts
+  - Cheating codes and tools
+  - Leakage of personal or financial info
+  - Preventing players from accessing the game
+
+- Risk Prioritization:
+  - High: Account theft (High probability, High impact)
+  - Medium: Cheating (Moderate probability, High impactt)
+  - Low: Server attacks (Low probability, High impact)
+
+- Targeted Threats:
+  - Cybercriminals aiming for account theft
+ 
+### (3) What are we going to do about it?
+- Two-factor authentication for player accounts.
+- Implement anti-cheat mechanisms and frequent game patch updates.
+- Secure player transactions with encryption and fraud detection.
+
+### (4) Did we do a good enough job?
+- Monthly security audits.
+- Continuous monitoring of player reports for suspicious activities.
+- Customeer surveys.
+- Ongoing updates.
+- Company staff lectures about phishing and scams.
 
