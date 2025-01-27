@@ -52,4 +52,17 @@
 - Campaign analysis helps defenders understand the intent of attackers, making it easier to prioritize security efforts for high-risk 
   targets
 
-  
+  ## 4 Case Study
+
+  ### 4.1 Intrusion Attempt 1
+
+  -In March 2009, Lockheed Martin Computer Incident Response Team detected a targeted malicious email attack sent to 
+   five individuals about an AIAA conference, containing a weaponized PDF that exploited a zero-day vulnerability in Adobe Acrobat to 
+   install a backdoor, enabling attackers to establish a Command and Control (C2) channel
+
+      - Reconnaissance : Email was crafted to it seemed legitimate. Was sent to five people who had received similar malicious emails           in the past
+      - Weaponization : A benign PDF and A malicious executable file to install the backdoor
+      - The malicious executable was encrypted with an 8-bit key and placed in the victim's system under C:\Documents and Settings\             [username]\Local Settings\fssm32.exe.
+      - Opening the PDF would exploit the vulnerability to decrypt and execute the backdoor, which then established communication with          the attacker's C2 server
+      - Backdoor send heartbeat data to attacker's server via HTTP requests
+      
