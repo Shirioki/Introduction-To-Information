@@ -32,4 +32,24 @@
 ### 3.2 - 3.5 Intrusion Kill Chain
 
 -  Intrusion Kill Chain, a model used to understand and defend against cyberattacks by breaking them down into phases
--  
+-  A kill chain is a process used to target and engage attackers
+-  if any phase of the chain is distrupted, the entire process is halted
+-  Phases of Intrusion Kill Chain:
+    - Reconnaissance: Attackers gather information on targets (like emails or technologies)
+    - Weaponization: Attackers create a payload (malware) to exploit vulnerabilities
+    - Delivery: The weaponized payload is transmitted (email, USB)
+    - Exploitation: The payload triggers an exploit, often taking advantage of vulnerabilities in software or human error
+    - Installation: A backdoor or remote access tool is installed to maintain control
+    - Command and Control (C2): Attackers connect to compromised systems to control them
+    - Actions on Objectives: After all the previous phases, attackers achieve their goal (usually data theft, system damage, or further       attacks on other systems).
+ 
+- The course of action matrix helps determine defensive actions. Defense can range from detecting attacks to denying exploitation
+- The goal of defense is to increase resilience ( making it harder for attackers to succeed under same tools or method)
+- Adaptability is really important. Defenders should constantly update their defenses based on new indicators and evolve faster than 
+  attackers.
+- It is important to analyze intrusions because it helps you identify which phases were successful and which defenses worked
+- This help preparing for future attacks and block them earlier.
+- Campaign analysis helps defenders understand the intent of attackers, making it easier to prioritize security efforts for high-risk 
+  targets
+
+  
