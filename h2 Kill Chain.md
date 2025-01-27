@@ -69,4 +69,12 @@
     - Opening the PDF would exploit the vulnerability to decrypt and execute the backdoor, which then established communication with          the attacker's C2 server
       
     - Backdoor send heartbeat data to attacker's server via HTTP requests
-      
+ 
+## Sources
+
+https://terokarvinen.com/information-security/#h2-kill-chain
+
+https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
+
+https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
+
