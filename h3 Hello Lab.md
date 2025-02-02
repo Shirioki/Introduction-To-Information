@@ -14,4 +14,8 @@
 - Administration commands and packages
 - Help commands
 
-  
+  ## a) Cant fish
+
+  - I opened terminal emulator and checked my ip address with ip addr command then i used sudo ifconfig enp0s3 up to disconnect my network after that i checked with ping 8.8.8.8 if packets went through.
+
+<img width="1088" alt="Screenshot 2025-02-03 at 0 55 46" src="https://github.com/user-attachments/assets/9b3d3065-8e46-465b-852e-473031fb0780" />
