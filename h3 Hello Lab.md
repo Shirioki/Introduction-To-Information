@@ -29,5 +29,30 @@
 - ''' Not shown: 998 closed tcp ports (conn-refused) '''
   indicates that 998 ports were closed.
 
+## c) Daemon scan
+
+<img width="1055" alt="Screenshot 2025-02-03 at 1 32 44" src="https://github.com/user-attachments/assets/18df335c-722c-4a5b-ba35-83e83601b9c3" />
+
+- I noticed from daemon scan that we got one more tcp port 80/tcp open (http) port.
+
+## d) Bandit oh-five
+
+### Level 0
+<img width="699" alt="Screenshot 2025-02-03 at 1 46 27" src="https://github.com/user-attachments/assets/26d87dbf-42bd-49ad-8946-79e505c08cee" />
+
+### Level 1
+<img width="840" alt="Screenshot 2025-02-03 at 1 51 25" src="https://github.com/user-attachments/assets/e5ac052f-7ee6-4012-b4d1-bbc52daeb349" />
+
+### Level 2
+
+<img width="335" alt="Screenshot 2025-02-03 at 1 55 37" src="https://github.com/user-attachments/assets/5a1471a0-b658-4de2-bbe0-3290c9c738e7" />
+
+### Level 3
+
+<img width="484" alt="Screenshot 2025-02-03 at 1 58 58" src="https://github.com/user-attachments/assets/5ad12980-fbde-43a2-b2c2-b5e448779bcf" />
+
+### Level 4
+
+<img width="503" alt="Screenshot 2025-02-03 at 2 03 17" src="https://github.com/user-attachments/assets/a006961e-7361-4f62-a05c-a27e7cf69334" />
 
 
