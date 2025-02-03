@@ -56,3 +56,12 @@
 <img width="503" alt="Screenshot 2025-02-03 at 2 03 17" src="https://github.com/user-attachments/assets/a006961e-7361-4f62-a05c-a27e7cf69334" />
 
 
+## References
+
+https://terokarvinen.com/2020/command-line-basics-revisited/
+
+https://terokarvinen.com/2021/install-debian-on-virtualbox/
+
+https://overthewire.org/wargames/
+
+https://wiki.debian.org/Daemon
