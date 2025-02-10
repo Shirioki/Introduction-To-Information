@@ -28,3 +28,9 @@
       - Struts 2 remote code execution vulnerability
 
   ## A03:2021 – Injection
+
+- Injection vulnerabilities are still common
+- Key Vulnerabilities are user-supplied data is not properly validated, program is not escaping the user input and common types of injections.
+- Prevention can be done using safe API with parameterized interfaces, applying limit controls in SQL queries and server validations and special characters escape.
+
+  
