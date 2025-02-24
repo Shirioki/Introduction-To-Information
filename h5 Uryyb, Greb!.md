@@ -21,6 +21,9 @@
 ssh 127.0.0.1
 ```
 
+<img width="802" alt="Screenshot 2025-02-24 at 3 53 05" src="https://github.com/user-attachments/assets/0baf565e-75cf-42db-8276-ba242780dc31" />
+
+
 ## Automate SSH connection using public keys
 
 To generate a key pair i used command 
@@ -28,12 +31,14 @@ To generate a key pair i used command
 ```
 ssh-keygen
 ```
+<img width="804" alt="image" src="https://github.com/user-attachments/assets/6928cd48-a6c4-42a2-9d06-7a522a4d9519" />
 
 after creating public key i copied it to the server using 
 
 ```
 ssh-copy-id ponkiphan@127.0.0.1
 ```
+<img width="897" alt="image" src="https://github.com/user-attachments/assets/0f6e479c-6aa4-48ac-b816-dd3d7f80cb58" />
 
 Now when i logged into my own server it will be passwordless
 
