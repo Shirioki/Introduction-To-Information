@@ -9,10 +9,14 @@
 
 ## Installing OpenSSH server
 
-- I started by opening terminal and used command
+- I started by opening terminal and used command 
   
 ```
  sudo apt-get install openssh-server
 ```
 
-  to install OpenSSH server
+  to install OpenSSH server. Then I logged in to my own server using the command 
+
+```
+ssh 127.0.0.1
+```
