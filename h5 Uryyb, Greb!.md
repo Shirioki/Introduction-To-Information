@@ -45,3 +45,19 @@ Now when i logged into my own server it will be passwordless
 ```
 ssh ponkiphan@127.0.0.1
 ```
+
+## Pretty Good indeed
+
+<img width="803" alt="Screenshot 2025-02-24 at 4 35 39" src="https://github.com/user-attachments/assets/4eddfe60-9ca4-49e3-8dbb-650c3d911e34" />
+
+## Password manager, open and cloudless
+
+- Protects you from phishing, keyloggers and weak passwords
+- saves strong and unique passwords
+
+### KeePassxC
+
+- Open-sourced, doesnt rely on cloud services.
+
+  
+  
