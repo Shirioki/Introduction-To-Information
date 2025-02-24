@@ -11,9 +11,10 @@
 
 - I started by opening terminal and using command
   
-  ```
- sudo apt-get install openssh-server 
+```
+ sudo apt-get install openssh-server
+```
 
-  ```
+
 
   
