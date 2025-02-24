@@ -59,5 +59,9 @@ ssh ponkiphan@127.0.0.1
 
 - Open-sourced, doesnt rely on cloud services.
 
-  
+To install it 
+
+```
+sudo apt install keepassxc
+```
   
