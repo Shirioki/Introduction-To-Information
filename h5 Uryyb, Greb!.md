@@ -20,3 +20,23 @@
 ```
 ssh 127.0.0.1
 ```
+
+## Automate SSH connection using public keys
+
+To generate a key pair i used command 
+
+```
+ssh-keygen
+```
+
+after creating public key i copied it to the server using 
+
+```
+ssh-copy-id ponkiphan@127.0.0.1
+```
+
+Now when i logged into my own server it will be passwordless
+
+```
+ssh ponkiphan@127.0.0.1
+```
