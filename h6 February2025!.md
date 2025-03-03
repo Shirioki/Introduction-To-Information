@@ -34,3 +34,8 @@ I did exactly the same as in the previous exercise.
 
 <img width="531" alt="image" src="https://github.com/user-attachments/assets/1f70709f-1fe9-4710-a361-299004e4f9dd" />
 
+## References
+
+Schneier 2015: Applied Cryptography: https://www.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/10_chap02.html#chap02-sec003
+
+Karvinen 2022: Cracking Passwords with Hashcat: https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
