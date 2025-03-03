@@ -1,7 +1,13 @@
 # € Schneier 2015: Applied Cryptography:
 
-- Cryptography = to solve problems involving secrecy, authentication, integrity, and dishonest people
-- Protocols = series of steps, involving two or more parties, designed to accomplish a task.
+### One-way functions
+- One-way functions are simple to compute, but difficult to reverse
+- Not useful on encryption, cause you cant decrypt it.
+- Trapdoor one-way function
+### One-way hash functions
+- Hash-function = takes a variable-length input string (called a pre-image) and converts it to a fixed-length (generally smaller) output string (called a hash value).
+- Hash-function are many-to-one
+- Good one-way hash-functions are collision free. Meaning that two pre-images cannot be determined with the same hash value.
   
 ## a) Install Hashcat
 
