@@ -60,7 +60,26 @@ I started by going to https://www.torproject.org/download/ and downloading the T
 After installing the Tor browser I opened it then i clicked connect
 
 
+# b) Browse TOR network, find, take screenshots and comment
 
+Search engine for .onion sites
 
+- Example: Ahmia
+
+![image](https://github.com/user-attachments/assets/67fd81df-7751-4e66-99f1-fd28798f505a)
+
+- Example : Marketplace Jesus shop
+
+  ![image](https://github.com/user-attachments/assets/0db6a88b-25fc-42fa-bd00-b63c3d327f22)
+
+  Example : Forum
+
+  ![image](https://github.com/user-attachments/assets/a0a98ba2-f078-46e7-bb6a-8d65e117dd01)
+
+  Example : a site for a well known organization that has a physical street address in the real world
+
+  ![image](https://github.com/user-attachments/assets/04d983a6-f4b7-4b42-aab5-f521cfc62f06)
+
+  
 
 
