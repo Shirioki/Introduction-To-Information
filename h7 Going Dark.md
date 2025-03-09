@@ -49,4 +49,18 @@
 - Investigators have worked on deanomymizing Tor to track down criminals but only breakthrough results have come from errors made by the suspects
 - FBI managed to identify users of a "CP" site by exploiting a vulnerability in 2013
 
+# a) Install TOR browser and access TOR network (.onion addresses).
+
+![image](https://github.com/user-attachments/assets/e0503d6c-3db4-4333-8d37-1f1af96c5a2c)
+
+I started by going to https://www.torproject.org/download/ and downloading the Tor browser downloader.
+
+![image](https://github.com/user-attachments/assets/bc8afe48-c6b1-4ff5-93b8-22cef9b960c6)
+
+After installing the Tor browser I opened it then i clicked connect
+
+
+
+
+
 
